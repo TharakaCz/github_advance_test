@@ -1,0 +1,12 @@
+Welcome Git Advance Text ,
+
+        * Push
+        * Delete
+        * Pull
+        * Marge
+        * Status
+        * Delete Commit
+        * All Commits
+        * and etc.
+
+Checkout And Author Tharaka_C_Gamage.
